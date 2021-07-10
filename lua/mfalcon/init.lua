@@ -1,3 +1,4 @@
-local greet = require('mfalcon.awesome-module')
+local removeTextColor = require('mfalcon.awesome-module')
 
-return {greet = greet}
+return {removeTextColor = removeTextColor}
+
